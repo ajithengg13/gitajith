@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hello_linux</h1>
+<h1>hello_linux_windows</h1>
 </body>
 </html>
